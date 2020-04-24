@@ -5,3 +5,4 @@
 
 - [💻 How to Use Express to Build a REST API](https://medium.com/better-programming/use-express-to-build-a-rest-api-69bd4abb8e4a)
 - [🔐 How to Secure Your API With JSON Web Tokens](https://medium.com/javascript-in-plain-english/how-to-secure-your-api-with-json-web-tokens-495ec68ba6cd)
+- [⚙️ How to Make Your Very Own Express Middleware](https://medium.com/javascript-in-plain-english/how-to-make-your-very-own-express-middleware-6b42692de32a)
