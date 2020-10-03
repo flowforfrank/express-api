@@ -15,7 +15,7 @@ module.exports = {
             jwt.sign(user, process.env.SECRET, (error, token) => {
                 response.json({
                     id: user.id,
-                    token
+                    token: token
                 });
             });
 
