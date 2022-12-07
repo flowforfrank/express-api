@@ -9,7 +9,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "express": "4.17.1",
+        "express": "4.18.2",
         "jsonwebtoken": "8.5.1",
         "node-localstorage": "2.1.5"
     }
